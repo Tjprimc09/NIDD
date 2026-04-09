@@ -1,0 +1,23 @@
+# Dependencies
+**/node_modules/
+**/__pycache__/
+*.py[cod]
+*$py.class
+**/.venv/
+**/venv/
+**/env/
+
+# IDEs and Tools
+**/.env
+**/.gemini/
+**/.claude/
+**/.cursor/
+**/.vscode/
+.DS_Store
+
+# Agent frameworks / skills
+**/.agent/
+**/.agents/
+**/_bmad/
+**/_bmad-output/
+**/.github/skills/
